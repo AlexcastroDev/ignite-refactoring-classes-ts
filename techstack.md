@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AlexcastroDev/ignite-refactoring-classes-ts](https://github.com/AlexcastroDev/ignite-refactoring-classes-ts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|01/02/24 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,9 +161,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -181,6 +181,7 @@ Full tech stack [here](/techstack.md)
 |[react-modal](https://www.npmjs.com/react-modal)|v3.12.1|07/03/22|Alexandro |MIT|N/A|
 |[react-router-dom](https://www.npmjs.com/react-router-dom)|v5.2.0|07/03/22|Alexandro |MIT|N/A|
 |[react-scripts](https://www.npmjs.com/react-scripts)|v4.0.3|07/03/22|Alexandro |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.9|07/03/22|Alexandro Castro |MIT|N/A|
 
 <br/>
 <div align='center'>
